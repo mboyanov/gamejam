@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Marco Polo\RandomMatchmaker.cs">
+    <Files>
+      <File FileName="Assets\Marco Polo\RandomMatchmaker.cs" Line="54" Column="20" />
+      <File FileName="Assets\Marco Polo\NetworkCharacter.cs" Line="25" Column="70" />
+      <File FileName="Assets\Plugins\myThirdPersonController.js" Line="375" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
